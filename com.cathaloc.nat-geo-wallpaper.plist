@@ -4,11 +4,8 @@
   <dict>
     <key>Label</key>
     <string>com.cathaloc.nat-geo-wallpaper</string>
-    <key>ProgramArguments</key>
-    <array>
-        <string>/usr/local/bin/python</string>
-        <string>Users/cathalocuimin/Developer/scripts/nat-geo-daily-wallpaper/nat_geo_wallpaper.py</string>
-    </array>
+    <key>Program</key>
+    <string>/usr/local/bin/natgeowallpaper.py</string>
     <key>RunAtLoad</key>
     <true/>
     <key>StartCalendarInterval</key>

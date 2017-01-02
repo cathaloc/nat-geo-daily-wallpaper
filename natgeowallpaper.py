@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/local/bin/python
 
 from appscript import *
 from bs4 import BeautifulSoup
